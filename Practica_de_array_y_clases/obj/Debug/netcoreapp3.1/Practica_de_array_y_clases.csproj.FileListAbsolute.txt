@@ -1,0 +1,26 @@
+C:\Users\YeisonPX\source\repos\Practica_de_array_y_clases\Practica_de_array_y_clases\bin\Debug\netcoreapp3.1\Practica_de_array_y_clases.exe
+C:\Users\YeisonPX\source\repos\Practica_de_array_y_clases\Practica_de_array_y_clases\bin\Debug\netcoreapp3.1\Practica_de_array_y_clases.deps.json
+C:\Users\YeisonPX\source\repos\Practica_de_array_y_clases\Practica_de_array_y_clases\bin\Debug\netcoreapp3.1\Practica_de_array_y_clases.runtimeconfig.json
+C:\Users\YeisonPX\source\repos\Practica_de_array_y_clases\Practica_de_array_y_clases\bin\Debug\netcoreapp3.1\Practica_de_array_y_clases.runtimeconfig.dev.json
+C:\Users\YeisonPX\source\repos\Practica_de_array_y_clases\Practica_de_array_y_clases\bin\Debug\netcoreapp3.1\Practica_de_array_y_clases.dll
+C:\Users\YeisonPX\source\repos\Practica_de_array_y_clases\Practica_de_array_y_clases\bin\Debug\netcoreapp3.1\Practica_de_array_y_clases.pdb
+C:\Users\YeisonPX\source\repos\Practica_de_array_y_clases\Practica_de_array_y_clases\obj\Debug\netcoreapp3.1\Practica_de_array_y_clases.csprojAssemblyReference.cache
+C:\Users\YeisonPX\source\repos\Practica_de_array_y_clases\Practica_de_array_y_clases\obj\Debug\netcoreapp3.1\Practica_de_array_y_clases.AssemblyInfoInputs.cache
+C:\Users\YeisonPX\source\repos\Practica_de_array_y_clases\Practica_de_array_y_clases\obj\Debug\netcoreapp3.1\Practica_de_array_y_clases.AssemblyInfo.cs
+C:\Users\YeisonPX\source\repos\Practica_de_array_y_clases\Practica_de_array_y_clases\obj\Debug\netcoreapp3.1\Practica_de_array_y_clases.csproj.CoreCompileInputs.cache
+C:\Users\YeisonPX\source\repos\Practica_de_array_y_clases\Practica_de_array_y_clases\obj\Debug\netcoreapp3.1\Practica_de_array_y_clases.dll
+C:\Users\YeisonPX\source\repos\Practica_de_array_y_clases\Practica_de_array_y_clases\obj\Debug\netcoreapp3.1\Practica_de_array_y_clases.pdb
+C:\Users\YeisonPX\source\repos\Practica_de_array_y_clases\Practica_de_array_y_clases\obj\Debug\netcoreapp3.1\Practica_de_array_y_clases.genruntimeconfig.cache
+C:\Users\YeisonPx\Desktop\Fun. de programacio\Practica_de_array_y_clases\Practica_de_array_y_clases\bin\Debug\netcoreapp3.1\Practica_de_array_y_clases.exe
+C:\Users\YeisonPx\Desktop\Fun. de programacio\Practica_de_array_y_clases\Practica_de_array_y_clases\bin\Debug\netcoreapp3.1\Practica_de_array_y_clases.deps.json
+C:\Users\YeisonPx\Desktop\Fun. de programacio\Practica_de_array_y_clases\Practica_de_array_y_clases\bin\Debug\netcoreapp3.1\Practica_de_array_y_clases.runtimeconfig.json
+C:\Users\YeisonPx\Desktop\Fun. de programacio\Practica_de_array_y_clases\Practica_de_array_y_clases\bin\Debug\netcoreapp3.1\Practica_de_array_y_clases.runtimeconfig.dev.json
+C:\Users\YeisonPx\Desktop\Fun. de programacio\Practica_de_array_y_clases\Practica_de_array_y_clases\bin\Debug\netcoreapp3.1\Practica_de_array_y_clases.dll
+C:\Users\YeisonPx\Desktop\Fun. de programacio\Practica_de_array_y_clases\Practica_de_array_y_clases\bin\Debug\netcoreapp3.1\Practica_de_array_y_clases.pdb
+C:\Users\YeisonPx\Desktop\Fun. de programacio\Practica_de_array_y_clases\Practica_de_array_y_clases\obj\Debug\netcoreapp3.1\Practica_de_array_y_clases.csprojAssemblyReference.cache
+C:\Users\YeisonPx\Desktop\Fun. de programacio\Practica_de_array_y_clases\Practica_de_array_y_clases\obj\Debug\netcoreapp3.1\Practica_de_array_y_clases.AssemblyInfoInputs.cache
+C:\Users\YeisonPx\Desktop\Fun. de programacio\Practica_de_array_y_clases\Practica_de_array_y_clases\obj\Debug\netcoreapp3.1\Practica_de_array_y_clases.AssemblyInfo.cs
+C:\Users\YeisonPx\Desktop\Fun. de programacio\Practica_de_array_y_clases\Practica_de_array_y_clases\obj\Debug\netcoreapp3.1\Practica_de_array_y_clases.csproj.CoreCompileInputs.cache
+C:\Users\YeisonPx\Desktop\Fun. de programacio\Practica_de_array_y_clases\Practica_de_array_y_clases\obj\Debug\netcoreapp3.1\Practica_de_array_y_clases.dll
+C:\Users\YeisonPx\Desktop\Fun. de programacio\Practica_de_array_y_clases\Practica_de_array_y_clases\obj\Debug\netcoreapp3.1\Practica_de_array_y_clases.pdb
+C:\Users\YeisonPx\Desktop\Fun. de programacio\Practica_de_array_y_clases\Practica_de_array_y_clases\obj\Debug\netcoreapp3.1\Practica_de_array_y_clases.genruntimeconfig.cache
